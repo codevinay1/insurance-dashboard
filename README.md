@@ -9,9 +9,7 @@ From a high-level view of total policies and claim amounts to a granular breakdo
 ​How does a policyholder's age or geographic zone impact risk?  
 ​What is the combined effect of education and marital status on claims?
 
-
-
-dashboard picture - https://github.com/codevinay1/insurance-dashboard/blob/main/dashboard_github.png
+![Image Alt](https://github.com/codevinay1/insurance-dashboard/blob/3ecf09ca7133aa51688d0476fdfebc67c1d374d9/dashboard_github.png)
 
 dashboard video - https://github.com/codevinay1/insurance-dashboard/blob/main/power%20bi_dashboard.mp4
 
