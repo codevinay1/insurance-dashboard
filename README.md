@@ -4,14 +4,15 @@ How can an insurance company turn scattered data into a strategic asset? That wa
 Insurance companies deal with vast amounts of data, but it's often siloed, making it difficult to spot trends. I developed a centralized Insurance Risk & Claims Analysis dashboard to solve this problem.  
 From a high-level view of total policies and claim amounts to a granular breakdown of risk factors, this dashboard brings data to life. Now, stakeholders can answer critical questions at a glance: 
 
+![Image Alt](https://github.com/codevinay1/insurance-dashboard/blob/3ecf09ca7133aa51688d0476fdfebc67c1d374d9/dashboard_github.png)
+
+dashboard video - https://github.com/codevinay1/insurance-dashboard/blob/main/power%20bi_dashboard.mp4
+
 From a high-level view of total policies and claim amounts to a granular breakdown of risk factors, this dashboard brings data to life. Now, stakeholders can answer critical questions at a glance:  
 ​Which car brands are associated with the highest claims?  
 ​How does a policyholder's age or geographic zone impact risk?  
 ​What is the combined effect of education and marital status on claims?
 
-![Image Alt](https://github.com/codevinay1/insurance-dashboard/blob/3ecf09ca7133aa51688d0476fdfebc67c1d374d9/dashboard_github.png)
-
-dashboard video - https://github.com/codevinay1/insurance-dashboard/blob/main/power%20bi_dashboard.mp4
 
 Insurance Risk & Claims Dashboard
 
